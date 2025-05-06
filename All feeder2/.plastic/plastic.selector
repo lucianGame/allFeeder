@@ -1,0 +1,4 @@
+repository "All feeder2@Lucian_Meisler@cloud"
+  path "/"
+    br "/main"
+    co "/main"
